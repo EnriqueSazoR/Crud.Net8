@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudNetMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+574c26a4caa5ed9a8f44de86dfd6b1740b53df91")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudNetMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudNetMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

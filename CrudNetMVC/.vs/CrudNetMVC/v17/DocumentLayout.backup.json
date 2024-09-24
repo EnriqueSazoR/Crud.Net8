@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\proyectocrud\\crudnetmvc\\crudnetmvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|solutionrelative:crudnetmvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\proyectocrud\\crudnetmvc\\crudnetmvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|solutionrelative:crudnetmvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\proyectocrud\\crudnetmvc\\crudnetmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|solutionrelative:crudnetmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\proyectocrud\\crudnetmvc\\crudnetmvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|solutionrelative:crudnetmvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\proyectocrud\\crudnetmvc\\crudnetmvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|solutionrelative:crudnetmvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\proyectocrud\\crudnetmvc\\crudnetmvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|solutionrelative:crudnetmvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\proyectocrud\\crudnetmvc\\crudnetmvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|solutionrelative:crudnetmvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|c:\\users\\luis sazo\\desktop\\cursonet\\proyectocrud\\crudnetmvc\\crudnetmvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8701265-826F-4E84-A246-8E05B05CBCBD}|CrudNetMVC\\CrudNetMVC.csproj|solutionrelative:crudnetmvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Index.cshtml",
-              "RelativeDocumentMoniker": "CrudNetMVC\\Views\\Inicio\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Index.cshtml",
-              "RelativeToolTip": "CrudNetMVC\\Views\\Inicio\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "CrudNetMVC\\Views\\Inicio\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeToolTip": "CrudNetMVC\\Views\\Inicio\\Borrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T23:21:11.967Z",
+              "WhenOpened": "2024-09-24T16:30:52.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Program.cs",
-              "RelativeDocumentMoniker": "CrudNetMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Program.cs",
-              "RelativeToolTip": "CrudNetMVC\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T23:13:07.872Z",
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "CrudNetMVC\\Views\\Inicio\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeToolTip": "CrudNetMVC\\Views\\Inicio\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:24:30.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CrudNetMVC\\Views\\Inicio\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Editar.cshtml",
+              "RelativeToolTip": "CrudNetMVC\\Views\\Inicio\\Editar.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:13:50.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudNetMVC\\Views\\Inicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Index.cshtml",
+              "RelativeToolTip": "CrudNetMVC\\Views\\Inicio\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:35:14.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Crear.cshtml",
+              "RelativeDocumentMoniker": "CrudNetMVC\\Views\\Inicio\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Views\\Inicio\\Crear.cshtml",
+              "RelativeToolTip": "CrudNetMVC\\Views\\Inicio\\Crear.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACkAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:34:38.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "InicioController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Controllers\\InicioController.cs",
               "RelativeDocumentMoniker": "CrudNetMVC\\Controllers\\InicioController.cs",
               "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\CursoNet\\ProyectoCrud\\CrudNetMVC\\CrudNetMVC\\Controllers\\InicioController.cs",
               "RelativeToolTip": "CrudNetMVC\\Controllers\\InicioController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwHcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T23:04:44.699Z",
+              "WhenOpened": "2024-09-24T15:30:47.222Z",
               "EditorCaption": ""
             }
           ]
